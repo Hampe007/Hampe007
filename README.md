@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hampus Svanberg!
+- 👋 Hi, I’m HCS!
 - 👀 I’m interested in building computers, programming and playing video games while also just wanting to expand my knowledge.
 - 🌱 I’m currently learning C#
 
