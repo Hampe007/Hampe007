@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-Hi! I'm **Hampus Carlström Svanberg**, a Swedish developer passionate about building **games, servers, and backend systems**.  
+Hi! I'm **Hampus**, a Swedish developer passionate about building **games, servers, and backend systems**.  
 Currently, I’m working on a **Game** with a friend (👀 still private for now).  
 I also enjoy tinkering with **VMs, Docker, and server infrastructure** when I’m not in Unity to improve my freetime life.
 
