@@ -61,8 +61,8 @@ I also enjoy tinkering with **VMs, Docker, and server infrastructure** when I’
 ---
 
 ## 🔗 Find Me Elsewhere
-- 🌐 [Portfolio](https://hcs.spelar.se/portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hampus-carlstr%C3%B6m-svanberg-9b96a5289/)  
+- 🌐 [Portfolio](https://hcs.spelar.se/portfolio/portfolio.html)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hampus-carlstr%C3%B6m-svanberg-9b96a5289/)
 
 ---
 
